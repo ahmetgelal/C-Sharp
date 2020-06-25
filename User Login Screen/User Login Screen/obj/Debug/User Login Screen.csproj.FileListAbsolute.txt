@@ -1,0 +1,11 @@
+C:\Users\Lab\Desktop\my C# Projects\User Login Screen\User Login Screen\bin\Debug\User Login Screen.exe.config
+C:\Users\Lab\Desktop\my C# Projects\User Login Screen\User Login Screen\bin\Debug\User Login Screen.exe
+C:\Users\Lab\Desktop\my C# Projects\User Login Screen\User Login Screen\bin\Debug\User Login Screen.pdb
+C:\Users\Lab\Desktop\my C# Projects\User Login Screen\User Login Screen\obj\Debug\User Login Screen.csprojAssemblyReference.cache
+C:\Users\Lab\Desktop\my C# Projects\User Login Screen\User Login Screen\obj\Debug\User_Login_Screen.Form1.resources
+C:\Users\Lab\Desktop\my C# Projects\User Login Screen\User Login Screen\obj\Debug\User_Login_Screen.Properties.Resources.resources
+C:\Users\Lab\Desktop\my C# Projects\User Login Screen\User Login Screen\obj\Debug\User Login Screen.csproj.GenerateResource.cache
+C:\Users\Lab\Desktop\my C# Projects\User Login Screen\User Login Screen\obj\Debug\User Login Screen.csproj.CoreCompileInputs.cache
+C:\Users\Lab\Desktop\my C# Projects\User Login Screen\User Login Screen\obj\Debug\User Login Screen.exe
+C:\Users\Lab\Desktop\my C# Projects\User Login Screen\User Login Screen\obj\Debug\User Login Screen.pdb
+C:\Users\Lab\Desktop\my C# Projects\User Login Screen\User Login Screen\obj\Debug\User_Login_Screen.Form2.resources
