@@ -1,0 +1,10 @@
+C:\Users\Lab\Desktop\my C# Projects\Send Email\Send Email\bin\Debug\Send Email.exe.config
+C:\Users\Lab\Desktop\my C# Projects\Send Email\Send Email\bin\Debug\Send Email.exe
+C:\Users\Lab\Desktop\my C# Projects\Send Email\Send Email\bin\Debug\Send Email.pdb
+C:\Users\Lab\Desktop\my C# Projects\Send Email\Send Email\obj\Debug\Send Email.csprojAssemblyReference.cache
+C:\Users\Lab\Desktop\my C# Projects\Send Email\Send Email\obj\Debug\Send_Email.Properties.Resources.resources
+C:\Users\Lab\Desktop\my C# Projects\Send Email\Send Email\obj\Debug\Send Email.csproj.GenerateResource.cache
+C:\Users\Lab\Desktop\my C# Projects\Send Email\Send Email\obj\Debug\Send Email.csproj.CoreCompileInputs.cache
+C:\Users\Lab\Desktop\my C# Projects\Send Email\Send Email\obj\Debug\Send Email.exe
+C:\Users\Lab\Desktop\my C# Projects\Send Email\Send Email\obj\Debug\Send Email.pdb
+C:\Users\Lab\Desktop\my C# Projects\Send Email\Send Email\obj\Debug\Send_Email.FordMail.resources
